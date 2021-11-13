@@ -1,0 +1,13 @@
+E:\AutoPlay USB Music\AutoPlay USB Music\bin\Debug\AutoPlay USB Music.exe.config
+E:\AutoPlay USB Music\AutoPlay USB Music\bin\Debug\AutoPlay USB Music.exe
+E:\AutoPlay USB Music\AutoPlay USB Music\bin\Debug\AutoPlay USB Music.pdb
+E:\AutoPlay USB Music\AutoPlay USB Music\bin\Debug\AutoPlay USB Music.xml
+E:\AutoPlay USB Music\AutoPlay USB Music\bin\Debug\AxInterop.WMPLib.dll
+E:\AutoPlay USB Music\AutoPlay USB Music\bin\Debug\Interop.WMPLib.dll
+E:\AutoPlay USB Music\AutoPlay USB Music\obj\Debug\AutoPlay_USB_Music.home.resources
+E:\AutoPlay USB Music\AutoPlay USB Music\obj\Debug\AutoPlay_USB_Music.Resources.resources
+E:\AutoPlay USB Music\AutoPlay USB Music\obj\Debug\AutoPlay USB Music.vbproj.GenerateResource.Cache
+E:\AutoPlay USB Music\AutoPlay USB Music\obj\Debug\AutoPlay USB Music.exe
+E:\AutoPlay USB Music\AutoPlay USB Music\obj\Debug\AutoPlay USB Music.xml
+E:\AutoPlay USB Music\AutoPlay USB Music\obj\Debug\AutoPlay USB Music.pdb
+E:\AutoPlay USB Music\AutoPlay USB Music\obj\Debug\AutoPlay USB Music.vbprojResolveAssemblyReference.cache
